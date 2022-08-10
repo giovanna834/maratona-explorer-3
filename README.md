@@ -1,7 +1,5 @@
-# maratona-explorer-3
+<h1>Maratona da Rocketseat</h2> 
 
-Maratona da Rocketseat 
+<h3>HTML, CSS E GITHUB</h3> 
 
-#HTML, CSS E GITHUB 
-
-# LINK DO PROJETO : https://famous-bonbon-eed438.netlify.app/
+<p>LINK DO PROJETO : https://famous-bonbon-eed438.netlify.app/ </p>
